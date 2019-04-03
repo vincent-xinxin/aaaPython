@@ -13,3 +13,6 @@ for循环   eg. magic.py
         step：步长，默认为1。例如：range（0， 5） 等价于 range(0, 5, 1)
 
 列表解析
+
+列表切片
+    
