@@ -4,9 +4,9 @@ pizza.append('chicken')
 friend_pizza.append('cheese')
 print('my pizza is: ')
 for pizzaa in pizza[:]:
-    print(pizzaa.title())
+    print(pizzaa.title(),end = ',')
 
-print('friend pizza is: ')
+print('\nfriend pizza is: ')
 for friend_pizzaa in friend_pizza[:]:
-    print(friend_pizzaa.title( ))
+    print(friend_pizzaa.title( ),end = ',')
 
